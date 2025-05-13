@@ -358,6 +358,9 @@ div.caption {
   div.video_wrapper {
     width: 25%;
   }
+  div.video_wrapper_3 {
+    width: 33.33333333333%;
+  }
 }
 
 .button.is-dark {
